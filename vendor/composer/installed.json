@@ -1,0 +1,42 @@
+{
+    "packages": [
+        {
+            "name": "dasha/parent",
+            "version": "dev-master",
+            "version_normalized": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/BelovaDaria1517/repo.git",
+                "reference": "49b086f8dbdf5f559ea779376edcab9917db6c37"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/BelovaDaria1517/repo/zipball/49b086f8dbdf5f559ea779376edcab9917db6c37",
+                "reference": "49b086f8dbdf5f559ea779376edcab9917db6c37",
+                "shasum": ""
+            },
+            "time": "2025-04-15T07:09:03+00:00",
+            "default-branch": true,
+            "type": "project",
+            "installation-source": "source",
+            "autoload": {
+                "psr-4": {
+                    "Dasha\\Parent\\": "src/"
+                }
+            },
+            "authors": [
+                {
+                    "name": "Даша",
+                    "email": "dashylyaiv@icloud.com"
+                }
+            ],
+            "support": {
+                "source": "https://github.com/BelovaDaria1517/repo/tree/master",
+                "issues": "https://github.com/BelovaDaria1517/repo/issues"
+            },
+            "install-path": "../dasha/parent"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}

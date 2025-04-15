@@ -1,0 +1,54 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "b7080a3ebd1925b378b88e3ffeaa0aab",
+    "packages": [
+        {
+            "name": "dasha/parent",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/BelovaDaria1517/repo.git",
+                "reference": "49b086f8dbdf5f559ea779376edcab9917db6c37"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/BelovaDaria1517/repo/zipball/49b086f8dbdf5f559ea779376edcab9917db6c37",
+                "reference": "49b086f8dbdf5f559ea779376edcab9917db6c37",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "project",
+            "autoload": {
+                "psr-4": {
+                    "Dasha\\Parent\\": "src/"
+                }
+            },
+            "authors": [
+                {
+                    "name": "Даша",
+                    "email": "dashylyaiv@icloud.com"
+                }
+            ],
+            "support": {
+                "source": "https://github.com/BelovaDaria1517/repo/tree/master",
+                "issues": "https://github.com/BelovaDaria1517/repo/issues"
+            },
+            "time": "2025-04-15T07:09:03+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "dasha/parent": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {},
+    "platform-dev": {},
+    "plugin-api-version": "2.6.0"
+}

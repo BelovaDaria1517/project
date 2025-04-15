@@ -1,0 +1,22 @@
+{
+    "name": "dasha/child",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Dasha\\Child\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Даша",
+            "email": "dashylyaiv@icloud.com"
+        }
+    ],
+    "require": {
+        "dasha/parent":"dev-master"
+    },
+    "repositories": [{
+        "type":"vcs",
+        "url":"https://github.com/BelovaDaria1517/repo.git"
+    }]
+}

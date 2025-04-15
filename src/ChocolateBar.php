@@ -6,13 +6,8 @@ use Dasha\Parent\Snack;
 
 class ChocolateBar extends Snack
 {
-    public function __construct()
-    {
-        parent::__construct(
-            'Шоколадный батончик',
-            'Молочный шоколад',
-            ['Орехи', 'Карамель']
-        );
+    public function __construct(string $name="Bar",string $chocolate="молочный шоколад",array $toppings=["орехи","карамель"]){
+        parent::__construct($name, $chocolate, $toppings);
     }
 
     public function cut(): void

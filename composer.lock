@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/BelovaDaria1517/repo.git",
-                "reference": "49b086f8dbdf5f559ea779376edcab9917db6c37"
+                "reference": "a0178e76c9e60952c06b781a8d4d58828070e53f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/BelovaDaria1517/repo/zipball/49b086f8dbdf5f559ea779376edcab9917db6c37",
-                "reference": "49b086f8dbdf5f559ea779376edcab9917db6c37",
+                "url": "https://api.github.com/repos/BelovaDaria1517/repo/zipball/a0178e76c9e60952c06b781a8d4d58828070e53f",
+                "reference": "a0178e76c9e60952c06b781a8d4d58828070e53f",
                 "shasum": ""
             },
             "default-branch": true,
@@ -37,7 +37,7 @@
                 "source": "https://github.com/BelovaDaria1517/repo/tree/master",
                 "issues": "https://github.com/BelovaDaria1517/repo/issues"
             },
-            "time": "2025-04-15T07:09:03+00:00"
+            "time": "2025-04-15T12:14:38+00:00"
         }
     ],
     "packages-dev": [],
